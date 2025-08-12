@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\highway-env",
+    "\\highway-env\\scripts",
+    "\\highway-env\\scripts\\agents",
+    "\\highway-env\\scripts\\highway_env",
+    "\\highway-env\\scripts\\highway_env\\envs",
+    "\\highway-env\\scripts\\highway_env\\envs\\common",
+    "\\highway-env\\scripts\\highway_env\\road",
+    "\\highway-env\\scripts\\highway_env\\vehicle",
+    "\\highway-env\\scripts\\utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}

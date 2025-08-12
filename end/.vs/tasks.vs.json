@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-monitortraining",
+      "appliesTo": "highway-env/scripts/monitortraining.py",
+      "type": "launch"
+    }
+  ]
+}
